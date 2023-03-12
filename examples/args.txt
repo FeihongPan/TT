@@ -1,0 +1,4 @@
+int i = 5;
+double a = 4.5;
+bool b = true;
+QString str = "string";
